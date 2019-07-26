@@ -14,9 +14,6 @@ Download from [Free Bangla Fonts Download](https://www.omicronlab.com/bangla-fon
 </br>
 I'm using Kalpurush font. Without downloading you can take kalpurush.ttf file from this repository. Finally, you have to upload it in overleaf.
 
-### Upload Font in Overleaf
-
-
 ### Add the following code snippet
 
 ```tex
