@@ -8,11 +8,13 @@
 	![Second Image](/images/second.png)
 
 
-### Download any Bengali Font
+### Download Any Bengali Font and Upload in Overleaf
 
 Download from [Free Bangla Fonts Download](https://www.omicronlab.com/bangla-fonts.html)
 </br>
-I'm using Kalpurush font. Without downloading you can take kalpurush.ttf file from this repository.
+I'm using Kalpurush font. Without downloading you can take kalpurush.ttf file from this repository. Finally, you have to upload it in overleaf.
+
+### Upload Font in Overleaf
 
 
 ### Add the following code snippet
