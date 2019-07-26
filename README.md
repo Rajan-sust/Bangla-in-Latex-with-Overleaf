@@ -9,9 +9,10 @@
 
 
 ### Download any Bengali Font
-[https://www.omicronlab.com/bangla-fonts.html](Free Bangla Fonts Download)
+
+Download from [Free Bangla Fonts Download](https://www.omicronlab.com/bangla-fonts.html)
 </br>
-I'm using Kalpurush. If you can take kalpurush.ttf from this repository.
+I'm using Kalpurush. Without downloading you can take kalpurush.ttf file from this repository.
 
 
 ### Add the following code snippet
