@@ -12,7 +12,7 @@
 
 Download from [Free Bangla Fonts Download](https://www.omicronlab.com/bangla-fonts.html)
 </br>
-I'm using Kalpurush. Without downloading you can take kalpurush.ttf file from this repository.
+I'm using Kalpurush font. Without downloading you can take kalpurush.ttf file from this repository.
 
 
 ### Add the following code snippet
